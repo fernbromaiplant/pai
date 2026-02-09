@@ -130,10 +130,13 @@ dist
 .yarn/*
 !.yarn/patches
 !.yarn/plugins
-!.yarn/releases
+!.yarn/releasesnode_modules
+.env
 !.yarn/sdks
 !.yarn/versions
 
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+

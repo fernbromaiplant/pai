@@ -1,4 +1,4 @@
-<?php
+.<?php
 // 超簡短測試版
 http_response_code(200);
 echo "Connection Successful";
